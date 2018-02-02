@@ -1,0 +1,1 @@
+# yank_stdout
